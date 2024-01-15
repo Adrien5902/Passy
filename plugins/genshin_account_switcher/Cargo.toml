@@ -1,0 +1,17 @@
+[package]
+name = "genshin_account_switcher"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+paste = "1.0.14"
+passy_plugin_maker = { path = "../../plugin_maker/rust" }
+winreg = "0.52.0"
+serde_json = "1.0.111"
+serde = "1.0.195"
+
+[lib]
+crate-type = ["cdylib"]
+name = "back"

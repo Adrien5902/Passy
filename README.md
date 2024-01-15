@@ -1,0 +1,3 @@
+Passy is a [pass](https://www.passwordstore.org/) inspired password manager
+
+Work in progress...
