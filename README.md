@@ -1,13 +1,13 @@
 ## 🔑 Passy is a [pass](https://www.passwordstore.org/) inspired password manager
 
-> [!NOTE]
+> [!WARNING]
 > Project currently work in progress...
 
 # ⚙️ Features
 - Password Manager using AES Encryption and master password
 - Compatible with mobile and chrome/browser extension
 - Uses source control, I may try to code a git like source manager
-- You can use/make plugins for the desktop app using the [plugin_maker](https://github.com/Adrien5902/Passy/tree/master/tree/master/plugin_maker) module
+- You can use/make plugins for the desktop app using the [plugin_maker](/plugin_maker) module
 
 ## Thanks 😀
 
