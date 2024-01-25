@@ -1,5 +1,12 @@
 {
     "rust-analyzer.linkedProjects": [
         ".\\client\\src-tauri\\Cargo.toml"
+    ],
+    "cSpell.words": [
+        "appdata",
+        "cstring",
+        "libloading",
+        "Passy",
+        "tauri"
     ]
 }
